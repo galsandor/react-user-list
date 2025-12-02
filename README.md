@@ -50,6 +50,7 @@ Téma váltás (Light / Dark mód)
 - **Netlify** (deploy)
 
 ## 📁 Projekt struktúra
+```text
 src/
  ├─ components/
  │   ├─ ErrorMessage.js
@@ -58,6 +59,7 @@ src/
  │   ├─ UsersData.js
  ├─ App.js
  ├─ index.js
+```
 
 ## 🎯 Főbb React koncepciók
   - Komponens alapú felépítés
