@@ -23,15 +23,20 @@ A választott téma elmentésre kerül a `localStorage`-be, így az oldal újrat
 Felhasználói lista
   - Az adatok lekérése a https://jsonplaceholder.typicode.com/users végpontról
   - A felhasználók táblázatos megjelenítése
+
 Keresés
   - A név alapján szűrhető lista (real-time)
+
 Rendezés
   - ABC szerinti növekvő (A–Z)
   - ABC szerinti csökkenő (Z–A)
+
 Betöltési állapot
   - API hívás során betöltési képernyő jelenik meg
+
 Hibaállapot
   - API hiba esetén piros figyelmeztető üzenet
+
 Téma váltás (Light / Dark mód)
   - MUI ThemeProvider
   - Preferencia mentése localStorage-be
