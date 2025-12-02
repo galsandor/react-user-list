@@ -43,7 +43,7 @@ Téma váltás (Light / Dark mód)
   - Téma betöltése indításkor
 
 ## 🚀 Használt technológiák
-- **JavaScript** (ES6+)
+- **JavaScript**
 - **React**
 - **Material UI (MUI)**
 - **Fetch API**
