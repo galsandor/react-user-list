@@ -1,6 +1,7 @@
 # Felhasználók listája webalkalmazás (React + Material UI)
 
 Egy tesztfeladatot kaptam a SignCoders cégtől, és örömmel elkészítettem.
+
 Ez a projekt egy React alapú webalkalmazás, amely a publikus API-t használva felhasználói adatokat jelenít meg táblázatos formában.
 Lehetőség van névre történő keresésre, az adatok rendezésére, valamint világos / sötét (Light / Dark) téma választására.
 A választott téma elmentésre kerül a `localStorage`-be, így az oldal újratöltése után is megmarad.
