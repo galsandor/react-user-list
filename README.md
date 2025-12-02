@@ -50,7 +50,7 @@ Téma váltás (Light / Dark mód)
 - **Netlify** (deploy)
 
 ## 📁 Projekt struktúra
-```text
+```
 src/
  ├─ components/
  │   ├─ ErrorMessage.js
