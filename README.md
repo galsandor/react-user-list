@@ -11,7 +11,9 @@ A választott téma elmentésre kerül a `localStorage`-be, így az oldal újrat
 ## 🔧 Telepítés és futtatás
 ### Telepítés 
 `npx create-react-app react-user-list`
+
 `npm install @mui/material @emotion/react @emotion/styled`
+
 `npm install @mui/icons-material`
 
 ### Futtatás
