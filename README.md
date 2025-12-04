@@ -66,7 +66,7 @@ src/
   - useEffect aszinkron adatlekéréshez
   - UI komponensek (MUI)
 
-## Összegzés
+## 📊 Összegzés
 Amikor megkaptam a tesztfeladatot, alaposan tanulmányoztam, és úgy éreztem, ismerősnek tűnik számomra.  
 Tavaly, a Styxa három hónapos kurzusa során saját tapasztalataimra építve készítettem el ezt a feladatot, és a „Ma tanultam!” nevű webalkalmazás projektből néhány kódot felhasználtam ehhez a munkához. 
 Minden feladatot a követelményeknek megfelelően elkészítettem, azonban a függvényírás még nem az erősségem.  
