@@ -6,7 +6,6 @@ Ez a projekt egy React alapú, egyszerű webalkalmazás, amely egy publikus API-
 Lehetőség van névre történő keresésre, az adatok rendezésére, valamint világos / sötét (Light / Dark) téma választására.
 A választott téma elmentésre kerül a `localStorage`-be, így az oldal újratöltése után is megmarad.
 
----
 
 ## 🔧 Telepítés és futtatás
 ### Telepítés 
